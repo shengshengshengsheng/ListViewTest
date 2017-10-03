@@ -1,5 +1,5 @@
 package com.example.shengsheng.listviewtest;
-
+//修改点击事件
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.AdapterView;
